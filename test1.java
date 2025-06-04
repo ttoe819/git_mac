@@ -4,5 +4,6 @@ public class test1 {
 		System.out.println("wawawa")
 		
 		// コードへたくそですね
+		// おこ！
 	}
 }
